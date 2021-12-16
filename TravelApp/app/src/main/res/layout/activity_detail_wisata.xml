@@ -15,7 +15,7 @@
             android:id="@+id/tbDetailWisata"
             android:layout_width="match_parent"
             android:layout_height="?actionBarSize"
-            android:background="@color/colorPrimary"
+            android:background="@color/blue"
             android:theme="@style/AppTheme.AppBarOverlay"
             app:popupTheme="@style/AppTheme.PopupOverlay"
             app:titleTextAppearance="@style/Toolbar.TitleText" />
@@ -64,7 +64,7 @@
                 android:orientation="vertical">
 
                 <TextView
-                    android:id="@+id/tvNamaKuliner"
+                    android:id="@+id/tvNamaWisata"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginBottom="10dp"
@@ -123,6 +123,21 @@
                     android:fontFamily="@font/open_sans_regular"
                     android:textAlignment="gravity" />
 
+                <Button
+                    android:id="@+id/roadmap_button"
+                    android:layout_width="match_parent"
+                    android:layout_height="70dp"
+                    android:layout_marginTop="30dp"
+                    android:layout_marginBottom="16dp"
+                    android:background="@drawable/custom_button"
+                    android:drawableEnd="@drawable/ic_steps"
+                    android:drawableRight="@drawable/ic_steps"
+                    android:fontFamily="@font/open_sans_extra_bold"
+                    android:paddingLeft="50dp"
+                    android:paddingRight="50dp"
+                    android:text="CH E C K   RO A D M A P"
+                    android:textColor="@color/white"
+                    android:textSize="18sp" />
 
 
             </LinearLayout>

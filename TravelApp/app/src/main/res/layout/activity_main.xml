@@ -6,6 +6,14 @@
     android:layout_height="match_parent"
     tools:context=".activities.MainActivity">
 
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="419dp"
+        android:layout_height="346dp"
+        app:srcCompat="@drawable/bg_menu"
+        tools:ignore="MissingConstraints" />
+
     <androidx.constraintlayout.widget.Guideline
         android:id="@+id/guideline"
         android:layout_width="wrap_content"
@@ -15,6 +23,7 @@
         app:layout_constraintGuide_end="362dp"
         app:layout_constraintStart_toStartOf="parent" />
 
+
     <androidx.constraintlayout.widget.Guideline
         android:id="@+id/guideline2"
         android:layout_width="wrap_content"
@@ -23,6 +32,7 @@
         android:orientation="vertical"
         app:layout_constraintGuide_begin="370dp"
         app:layout_constraintStart_toStartOf="parent" />
+
 
     <TextView
         android:id="@+id/firstText"
@@ -34,7 +44,7 @@
         android:textColor="@color/colorPrimary"
         android:textSize="24sp"
         app:layout_constraintStart_toStartOf="@+id/guideline"
-        app:layout_constraintTop_toTopOf="parent"/>
+        app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
         android:id="@+id/textView"
@@ -285,7 +295,7 @@
                     android:layout_marginStart="12dp"
                     android:layout_marginTop="150dp"
                     android:fontFamily="@font/open_sans_extra_bold"
-                    android:text="Mosque"
+                    android:text="Pray Place"
                     android:textColor="@color/white"
                     android:textSize="22sp"
                     app:layout_constraintEnd_toEndOf="parent"
