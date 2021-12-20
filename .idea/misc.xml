@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Ivan Munandar/Documents/Project/TravelApp/app/src/main/res/drawable-v24/custom_button.xml" value="0.23914473684210527" />
+        <entry key="..\:/Users/Ivan Munandar/Documents/Project/TravelApp/app/src/main/res/drawable-v24/ic_back_arrow.xml" value="0.23914473684210527" />
+        <entry key="..\:/Users/Ivan Munandar/Documents/Project/TravelApp/app/src/main/res/drawable-v24/ic_down_arrow.xml" value="0.23914473684210527" />
+        <entry key="..\:/Users/Ivan Munandar/Documents/Project/TravelApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.13815789473684212" />
+        <entry key="..\:/Users/Ivan Munandar/Documents/Project/TravelApp/app/src/main/res/drawable-v24/ic_settings.xml" value="0.23914473684210527" />
+        <entry key="..\:/Users/Ivan Munandar/Documents/Project/TravelApp/app/src/main/res/drawable-v24/ic_steps.xml" value="0.23914473684210527" />
+        <entry key="..\:/Users/Ivan Munandar/Documents/Project/TravelApp/app/src/main/res/drawable-v24/ic_up_arrow.xml" value="0.3728205128205128" />
+        <entry key="..\:/Users/Ivan Munandar/Documents/Project/TravelApp/app/src/main/res/drawable/bg_gradient.xml" value="0.23914473684210527" />
+        <entry key="..\:/Users/Ivan Munandar/Documents/Project/TravelApp/app/src/main/res/layout/activity_detail_hotel.xml" value="0.22894736842105262" />
+        <entry key="..\:/Users/Ivan Munandar/Documents/Project/TravelApp/app/src/main/res/layout/activity_detail_kuliner.xml" value="0.2" />
+        <entry key="..\:/Users/Ivan Munandar/Documents/Project/TravelApp/app/src/main/res/layout/activity_detail_wisata.xml" value="0.152" />
+        <entry key="..\:/Users/Ivan Munandar/Documents/Project/TravelApp/app/src/main/res/layout/activity_hotel.xml" value="0.22894736842105262" />
+        <entry key="..\:/Users/Ivan Munandar/Documents/Project/TravelApp/app/src/main/res/layout/activity_kuliner.xml" value="0.22894736842105262" />
+        <entry key="..\:/Users/Ivan Munandar/Documents/Project/TravelApp/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Ivan Munandar/Documents/Project/TravelApp/app/src/main/res/layout/activity_masjid.xml" value="0.2" />
+        <entry key="..\:/Users/Ivan Munandar/Documents/Project/TravelApp/app/src/main/res/layout/activity_splash_screen.xml" value="0.22894736842105262" />
+        <entry key="..\:/Users/Ivan Munandar/Documents/Project/TravelApp/app/src/main/res/layout/activity_wisata.xml" value="0.152" />
+        <entry key="..\:/Users/Ivan Munandar/Documents/Project/TravelApp/app/src/main/res/layout/background.xml" value="0.22894736842105262" />
+        <entry key="..\:/Users/Ivan Munandar/Documents/Project/TravelApp/app/src/main/res/layout/item_list.xml" value="0.22894736842105262" />
+        <entry key="..\:/Users/Ivan Munandar/Documents/Project/TravelApp/app/src/main/res/layout/item_list_hotel.xml" value="0.22894736842105262" />
+        <entry key="..\:/Users/Ivan Munandar/Documents/Project/TravelApp/app/src/main/res/layout/item_list_kuliner.xml" value="0.22894736842105262" />
+        <entry key="..\:/Users/Ivan Munandar/Documents/Project/TravelApp/app/src/main/res/layout/item_list_masjid.xml" value="0.22894736842105262" />
+        <entry key="..\:/Users/Ivan Munandar/Documents/Project/TravelApp/app/src/main/res/layout/item_list_wisata.xml" value="0.2" />
+        <entry key="..\:/Users/Ivan Munandar/Documents/Project/TravelApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.13815789473684212" />
+        <entry key="..\:/Users/Ivan Munandar/Documents/Project/TravelApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.13815789473684212" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
