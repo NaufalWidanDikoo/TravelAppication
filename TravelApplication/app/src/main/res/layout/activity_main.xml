@@ -20,7 +20,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="20dp"
         android:orientation="vertical"
-        app:layout_constraintGuide_end="362dp"
+        app:layout_constraintGuide_end="360dp"
         app:layout_constraintStart_toStartOf="parent" />
 
 
@@ -30,7 +30,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="20dp"
         android:orientation="vertical"
-        app:layout_constraintGuide_begin="370dp"
+        app:layout_constraintGuide_begin="360dp"
         app:layout_constraintStart_toStartOf="parent" />
 
 
